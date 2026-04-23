@@ -23,6 +23,8 @@ targets:
       base:
         PRODUCT_BUNDLE_IDENTIFIER: com.talentosostenible.tsapi
         PRODUCT_NAME: TSAPI
+        DEVELOPMENT_TEAM: 94W2G382DX
+        CODE_SIGN_STYLE: Automatic
         MARKETING_VERSION: "1.0"
         CURRENT_PROJECT_VERSION: "1"
         SWIFT_VERSION: "5.9"
